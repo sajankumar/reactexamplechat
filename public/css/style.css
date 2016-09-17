@@ -1,0 +1,67 @@
+
+
+
+
+.login-box{
+       width: 50%;
+     margin-top: 35%;
+    margin-left: 24%;
+    
+}
+
+.login-box .input-group{
+    display: flex;
+}
+
+.login-box .input-group .input-group-addon{
+    width: 17%;
+}
+
+.send-text-box{
+    margin-top: 10px;
+}
+.send-text-box .send-msg .input-group{
+   display: flex;
+}
+
+
+
+
+.outer-wrapper .wrapper{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 15px 10px 15px 10px;
+    height: 450px;
+    overflow-y: auto;
+}
+
+
+.message-box .wrapper{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 15px 10px 15px 10px;
+    height: 450px;
+    overflow-y: auto;
+
+}
+
+.message-box .wrapper .list-group div{
+    border-bottom: 1px solid orange;
+}
+
+.message-box .wrapper .list-group div p{
+    word-wrap: break-word;
+    clear: both;
+    font-size: 14px;
+     font-style: italic;
+     font-weight: 700;
+     color:gray;
+
+}
+
+
+.message-box .wrapper .list-group div  span{
+    float: right;
+    margin-top: 1px;
+
+}
